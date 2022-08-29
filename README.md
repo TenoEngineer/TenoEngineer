@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Heitor Teno Müller</h1>
 <h3 align="center">A Engineer studying Python and C#</h3>
 
-- 🔭 I’m currently working on personal projecr *ProjetoEmpresaDotNet*
+- 🔭 I’m currently working on personal project: *ProjetoEmpresaDotNet*
 
 - 🌱 I’m currently learning *Python and C#*
 
 - 📫 How to reach me *heitorteno@hotmail.com*
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/tenomuller</h3>
 <p align="left">
 </p>
 
