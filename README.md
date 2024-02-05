@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Heitor Teno Müller</h1>
-<h3 align="center">A Engineer studying Python and C#</h3>
+<h3 align="center">Energy Engineer who loves data</h3>
 
-- 🔭 I’m currently working on personal project: *ProjetoEmpresaDotNet*
+- 🔭 I’m currently working on personal project: -
 
-- 🌱 I’m currently learning *Python and C#*
+- 🌱 I’m currently learning *Data Engineering as a whole*
 
 - 📫 How to reach me *heitorteno@hotmail.com*
 
